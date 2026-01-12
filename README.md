@@ -42,14 +42,16 @@ The card flips smoothly on hover, revealing the back side with realistic card de
 Hover over the card to see the flip animation.
 
 > You can add a screenshot or GIF here later.
+> <img width="1869" height="882" alt="image" src="https://github.com/user-attachments/assets/d31efbd9-7cb2-4a18-8879-93dab3ff9f20" />
+ video Link: https://go.screenpal.com/watch/cOVleRnryCd
 
 ---
 
 ## 📦 How to Use
 
 1. Clone the repository:
-   ```bash git clone https://github.com/rakesh-yadav-12/Flipping-Card-UI-Design.git
-  
+   ```bash
+   git clone https://github.com/your-username/flipping-card-ui.git
 ✨ Customization
 
 Update card number, name, and expiry date in index.html
