@@ -49,7 +49,7 @@ Hover over the card to see the flip animation.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flipping-card-ui.git
+  https://github.com/rakesh-yadav-12/Flipping-Card-UI-Design.git
 ✨ Customization
 
 Update card number, name, and expiry date in index.html
