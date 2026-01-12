@@ -5,8 +5,7 @@ A responsive flipping credit card UI created using pure HTML and CSS with 3D tra
 
 A modern **Flipping Credit Card UI Design** built using **HTML & CSS**.  
 The card flips smoothly on hover, revealing the back side with realistic card details.
-<img width="1869" height="882" alt="image" src="https://github.com/user-attachments/assets/d31efbd9-7cb2-4a18-8879-93dab3ff9f20" />
- video Link: https://go.screenpal.com/watch/cOVleRnryCd
+
 
 
 
@@ -43,6 +42,9 @@ Hover over the card to see the flip animation.
 
 > You can add a screenshot or GIF here later.
 > <img width="1869" height="882" alt="image" src="https://github.com/user-attachments/assets/d31efbd9-7cb2-4a18-8879-93dab3ff9f20" />
+
+<img width="1403" height="738" alt="image" src="https://github.com/user-attachments/assets/47b9f439-7b2e-41a8-8731-248bae4b91a6" />
+
  video Link: https://go.screenpal.com/watch/cOVleRnryCd
 
 ---
