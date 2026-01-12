@@ -31,14 +31,8 @@ The card flips smoothly on hover, revealing the back side with realistic card de
 ---
 
 ## 📂 Project Structure
-Flipping-Card-UI/
-│
-├── index.html
-├── style.css
-├── images/
-│ ├── Mastercard-Logo.png
-│ └── chip.png
-└── README.md
+<img width="424" height="296" alt="image" src="https://github.com/user-attachments/assets/86733b02-37dd-4a4f-8ad6-f5a2fa2d6bb8" />
+
 
 
 ---
